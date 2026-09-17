@@ -1,5 +1,9 @@
 # VisionFlow — Real-Time Object Detection, Tracking & Video Analytics
 
+**Course:** Computer Vision(CSE3010) | VIT Bhopal University | AY 2026-27  
+**Student:** Tushar Chakraborty   
+**Registration No**. 24BAI10842
+
 A command-line computer vision system that detects, tracks, and counts objects
 in a video stream using **YOLOv4-tiny (via OpenCV's DNN module)**, and layers
 classical CV analytics — Canny edge detection, MOG2 background subtraction,
